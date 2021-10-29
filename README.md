@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yamaisiukdranko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamaisiukdranko" height="30" width="40" /></a>
+<a href="https://t.me/YaMaisiukDranko" target="blank"><img align="center" src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/Telegram-Logo.png" alt="YaMaisiukDranko" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/yaroslav moisiuk dranko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaroslav moisiuk dranko" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15065190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15065190" height="30" width="40" /></a>
 <a href="https://instagram.com/moisiuk_dranko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moisiuk_dranko" height="30" width="40" /></a>
