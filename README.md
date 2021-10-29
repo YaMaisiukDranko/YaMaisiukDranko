@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **jajaroslove@gmail.com**
 
+<h3 align="left">My achievements:</h3>
+<p align="left">
+<a href="https://summer.hackclub.com/" target="blank"><img align="center" src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/summer_of_making.svg" alt="HackClub" height="40" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/YaMaisiukDranko" target="blank"><img align="center" src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/Telegram-Logo.png" alt="YaMaisiukDranko" height="40" width="40" /></a>
