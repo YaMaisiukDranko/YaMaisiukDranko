@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
 <h3 align="center">Unity Programmer from Belarus</h3>
+<p align="center">
+- 🌱 I’m currently learning **Unity Engine, Illustrator** </a>
 
-- 🌱 I’m currently learning **Unity Engine, Illustrator**
+<p align="center">
+- 👨‍💻 All of my projects are available at (https://github.com/YaMaisiukDranko) </a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/YaMaisiukDranko](https://github.com/YaMaisiukDranko)
-
-- 📫 How to reach me **jajaroslove@gmail.com**
+<p align="center">
+- 📫 How to reach me **jajaroslove@gmail.com** </a>
 
 <h3 align="left">My achievements:</h3>
 <p align="left">
 <a href="https://summer.hackclub.com/" target="blank"><img align="center" src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/summer_of_making.svg" alt="HackClub" height="40" width="40" /></a>
+<a href="https://education.github.com/pack" target="blank"><img align="center" src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/d6fe3e7025f9a9ae3f786e0cb77dea75.png" alt="StudentDeveloperPack" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
