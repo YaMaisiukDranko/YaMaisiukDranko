@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
 <h3 align="center">Unity Programmer from Belarus</h3>
 <p align="center">
-- 🌱 I’m currently learning **Unity Engine, Illustrator** </a>
+- 🌱 I’m currently learning Unity Engine, Illustrator </a>
 
 <p align="center">
 - 👨‍💻 All of my projects are available at (https://github.com/YaMaisiukDranko) </a>
-
-<p align="center">
-- 📫 How to reach me **jajaroslove@gmail.com** </a>
 
 <h3 align="center">My achievements:</h3>
 <p align="center">
@@ -22,7 +19,7 @@
 <a href="https://discord.gg/#0869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0869" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">My skills:</h3>
+<h3 align="center">My skills and tools:</h3>
 <p align="center">
 <a href="https://unity.com/" target="_blank"> <img src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/Unity%20logo.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://ru.wikipedia.org/wiki/C_Sharp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
