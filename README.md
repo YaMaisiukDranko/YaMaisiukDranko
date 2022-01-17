@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
 <h3 align="center">Unity Programmer from Belarus</h3>
 <p align="center">
-- 🌱 I’m currently learning Unity Engine, Illustrator </a>
+- 🌱 I’m currently learning Unity Engine, Publishing </a>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at (https://github.com/YaMaisiukDranko) </a>
+- 👨‍💻 All of my projects https://github.com/YaMaisiukDranko   </a>
 
 <h3 align="center">My achievements:</h3>
 <p align="center">
