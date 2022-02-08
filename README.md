@@ -35,3 +35,10 @@ alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/Raspberry_Pi_Logo.svg" alt="raspberryPi" width="33" height="40"/> </a> 
 <a href="https://www.jetbrains.com/ru-ru/rider/" target="_blank"> <img src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/scale-dec-558x520%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" alt="rider" width="40" height="40"/> </a> 
 </p>
+
+
+<h3 align="center"></h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/YaMaisiukDranko" target="_blank"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="BuyMeACoffee" width="155" height="37"/> </a> 
+<a href="https://www.patreon.com/join/gametico/checkout?ru=undefined" target="_blank"> <img src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92?format=jpg&name=small" alt="Patron" width="155" height="37"/> </a> 
+</p>
