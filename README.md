@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://t.me/YaMaisiukDranko" target="blank"><img align="center" src="https://github.com/YaMaisiukDranko/YaMaisiukDranko/blob/main/Telegram-Logo.png" alt="YaMaisiukDranko" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/yaroslav moisiuk dranko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaroslav moisiuk dranko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yaroslav-moisiuk-dranko-a00017215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaroslav moisiuk dranko" height="30" width="40" /></a>
 <a href="https://instagram.com/moisiuk_dranko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moisiuk_dranko" height="30" width="40" /></a>
 <a href="https://discord.gg/#0869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0869" height="30" width="40" /></a>
 </p>
